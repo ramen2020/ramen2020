@@ -39,3 +39,8 @@
 
 <h3>💌: Contact</h3>
 <p>lot32nao@gmail.com</p>
+<p>
+  <a href="https://twitter.com/Naochandesuga" target="_blank">
+    <img alt="Twitter: Naochandesuga" src="https://img.shields.io/twitter/follow/Naochandesuga.svg?style=social" />
+  </a>
+</p>
